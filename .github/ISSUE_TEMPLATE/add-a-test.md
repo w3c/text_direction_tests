@@ -13,10 +13,9 @@ Test link(s):
 
 Results:
 
-- **Gecko:** ✅  Any_comments_here   *copy_here_the_Browser_info_line_in_the_test* 
-- **Blink:** ✅  Any_comments_here   *copy_here_the_Browser_info_line_in_the_test* 
-- **Webkit:** ❌  Any_comments_here  *copy_here_the_Browser_info_line_in_the_test* 
-
+- **Gecko:** ✅❌  Any_comments_here   *copy_here_the_Browser_info_line_in_the_test* 
+- **Blink:** ✅❌  Any_comments_here   *copy_here_the_Browser_info_line_in_the_test* 
+- **Webkit:** ✅❌  Any_comments_here  *copy_here_the_Browser_info_line_in_the_test* 
 
 
 Related tests: [results_page_title](results_page_url_here)
