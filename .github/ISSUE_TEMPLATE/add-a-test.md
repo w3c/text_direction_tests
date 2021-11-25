@@ -7,13 +7,16 @@ assignees: ''
 
 ---
 
+Test link(s):
+
 [test](snapshot_url_goes_here)
 
-Instructions_for_how_to_run_the_test_and_tell_whether_it_passed.
+Results:
 
-- Gecko: ✓✘ Browser_name_and_version OS Comments_here
-- Blink: ✓✘ Browser_name_and_version OS Comments_here
-- Webkit: ✓✘ Browser_name_and_version OS Comments_here
+- **Gecko:** ✅  Any_comments_here   *copy_here_the_Browser_info_line_in_the_test* 
+- **Blink:** ✅  Any_comments_here   *copy_here_the_Browser_info_line_in_the_test* 
+- **Webkit:** ❌  Any_comments_here  *copy_here_the_Browser_info_line_in_the_test* 
 
 
-Related tests: [results page](results_page_url_here)
+
+Related tests: [results_page_title](results_page_url_here)
